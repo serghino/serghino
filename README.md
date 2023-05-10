@@ -5,7 +5,7 @@
 </h1>
 <p align='center'>  
   🔭 I’m currently working on MEAN Stack JS.
-  🌱 I’m currently learning MapBoxGL.
+  🌱 I’m currently learning Clean Architecture, DDD, Nx, Azure.
   💬 Ask me about how we get to mars 🚀🚀
 <p/>
 <p align='rigth'>
